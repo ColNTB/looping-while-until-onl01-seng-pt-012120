@@ -1,4 +1,4 @@
 def using_until
-  levita
+  levitation_force = 1 
 end
 
